@@ -1,0 +1,7 @@
+[INFO ] 2021-12-16 10:31:55.858 [main] BaseClass - Browser lauched successfully
+[INFO ] 2021-12-16 10:31:56.188 [main] BaseClass - Username is set
+[INFO ] 2021-12-16 10:31:56.362 [main] BaseClass - Password is set
+[INFO ] 2021-12-16 10:32:02.719 [main] BaseClass - Clicked on the login button
+[INFO ] 2021-12-16 10:32:03.018 [main] BaseClass - Actual Title : OrangeHRM did not match with Expected title : OrangeHR
+[INFO ] 2021-12-16 10:32:04.162 [main] BaseClass - Browser closed Successfully
+[INFO ] 2021-12-16 10:32:04.162 [main] BaseClass - ****End of Test Case****

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [OrangeHRM Regression Suite]">
+  <listeners>
+    <listener class-name="com.HRM.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="HRM CreateNewUserAndLoginUsingNewlyCreatedUser(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.HRM.testCases.Tc_002_CreateNewEmployeeAndLoginWithNewEmployee">
+        <methods>
+          <include name="tearDown"/>
+          <include name="logOutFromHRMApplication"/>
+          <include name="loginWithNewlyCreatedUser"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.HRM.testCases.Tc_002_CreateNewEmployeeAndLoginWithNewEmployee -->
+    </classes>
+  </test> <!-- HRM CreateNewUserAndLoginUsingNewlyCreatedUser(failed) -->
+</suite> <!-- Failed suite [OrangeHRM Regression Suite] -->

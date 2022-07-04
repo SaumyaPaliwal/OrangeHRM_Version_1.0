@@ -1,0 +1,22 @@
+[INFO ] 2022-07-04 02:07:24.187 [main] BaseClass - Browser lauched successfully
+[INFO ] 2022-07-04 02:07:24.387 [main] BaseClass - Username is set
+[INFO ] 2022-07-04 02:07:24.488 [main] BaseClass - Password is set
+[INFO ] 2022-07-04 02:07:31.181 [main] BaseClass - Clicked on the login button
+[INFO ] 2022-07-04 02:07:34.995 [main] BaseClass - User Clicked on PIM Tab
+[INFO ] 2022-07-04 02:07:36.126 [main] BaseClass - User Clicked on Add Employee
+[INFO ] 2022-07-04 02:07:36.294 [main] BaseClass - FirstName is set
+[INFO ] 2022-07-04 02:07:36.464 [main] BaseClass - MiddleName is set
+[INFO ] 2022-07-04 02:07:36.635 [main] BaseClass - LastName is set
+[INFO ] 2022-07-04 02:07:36.766 [main] BaseClass - EmployeeID is set
+[INFO ] 2022-07-04 02:07:36.904 [main] BaseClass - User Clicked on LoginDetails Checkbox
+[INFO ] 2022-07-04 02:07:37.052 [main] BaseClass - Username is set
+[INFO ] 2022-07-04 02:07:37.203 [main] BaseClass - Password is set
+[INFO ] 2022-07-04 02:07:37.342 [main] BaseClass - ConfirmPassword is set
+[INFO ] 2022-07-04 02:07:40.484 [main] BaseClass - User Clicked on saveButton
+[INFO ] 2022-07-04 02:07:47.087 [main] BaseClass - Clicked on the logout button
+[INFO ] 2022-07-04 02:07:47.235 [main] BaseClass - Username is set
+[INFO ] 2022-07-04 02:07:47.370 [main] BaseClass - Password is set
+[INFO ] 2022-07-04 02:07:49.385 [main] BaseClass - Clicked on the login button
+[INFO ] 2022-07-04 02:07:49.399 [main] BaseClass - Actual Title : OrangeHRM Matched with Expected title : OrangeHRM
+[INFO ] 2022-07-04 02:07:50.715 [main] BaseClass - Browser closed Successfully
+[INFO ] 2022-07-04 02:07:50.715 [main] BaseClass - ****End of Test Case****

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="OrangeHRM Regression Suite">
+<listeners>
+<listener class-name="com.HRM.utilities.Reporting"></listener>
+</listeners>
+<!--<test name="HRM LoginTest">
+<parameter name="browser" value="chrome"></parameter>
+<classes>
+<class name="com.HRM.testCases.Tc_001_LoginIntoAppWithValidCreds"></class>
+</classes>
+</test>-->
+<test name="HRM CreateNewUserAndLoginUsingNewlyCreatedUser">
+<parameter name="browser" value="chrome"></parameter>
+<classes>
+<class name="com.HRM.testCases.Tc_002_CreateNewEmployeeAndLoginWithNewEmployee"></class>
+</classes>
+</test>
+</suite>

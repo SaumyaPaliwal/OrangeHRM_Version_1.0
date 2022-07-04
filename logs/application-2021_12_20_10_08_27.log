@@ -1,0 +1,17 @@
+[INFO ] 2021-12-20 10:08:37.641 [main] BaseClass - Browser lauched successfully
+[INFO ] 2021-12-20 10:08:37.956 [main] BaseClass - Username is set
+[INFO ] 2021-12-20 10:08:38.163 [main] BaseClass - Password is set
+[INFO ] 2021-12-20 10:08:44.908 [main] BaseClass - Clicked on the login button
+[INFO ] 2021-12-20 10:08:47.927 [main] BaseClass - User Clicked on PIM Tab
+[INFO ] 2021-12-20 10:08:50.053 [main] BaseClass - User Clicked on Add Employee
+[INFO ] 2021-12-20 10:08:50.223 [main] BaseClass - FirstName is set
+[INFO ] 2021-12-20 10:08:50.372 [main] BaseClass - MiddleName is set
+[INFO ] 2021-12-20 10:08:50.552 [main] BaseClass - LastName is set
+[INFO ] 2021-12-20 10:08:50.674 [main] BaseClass - EmployeeID is set
+[INFO ] 2021-12-20 10:08:50.819 [main] BaseClass - User Clicked on LoginDetails Checkbox
+[INFO ] 2021-12-20 10:08:50.975 [main] BaseClass - Username is set
+[INFO ] 2021-12-20 10:08:51.148 [main] BaseClass - Password is set
+[INFO ] 2021-12-20 10:08:51.302 [main] BaseClass - ConfirmPassword is set
+[INFO ] 2021-12-20 10:08:51.434 [main] BaseClass - User Clicked on saveButton
+[INFO ] 2021-12-20 10:08:53.502 [main] BaseClass - Browser closed Successfully
+[INFO ] 2021-12-20 10:08:53.503 [main] BaseClass - ****End of Test Case****
